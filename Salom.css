@@ -1,0 +1,28 @@
+.katta{
+    background-color: aqua;
+    text-transform: uppercase;
+    text-align: center;
+}
+.out{
+    color: orange;
+    text-decoration: underline wavy orange ;
+}
+.lorem{
+    text-decoration: underline dotted   ;
+}
+.lorem_2{
+    background-color: yellow;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: smaller;
+}
+.fa-regular{
+    color: green;
+}
+.shrift{
+    
+      font-weight: 400;
+  font-style: normal;
+
+}

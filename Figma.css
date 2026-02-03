@@ -1,0 +1,20 @@
+.back{
+    background-color:rgba(30, 30, 30, 1) ;
+}
+.qw{
+    color: white;
+}
+.make{
+   padding-left: 200px;
+}
+.nn{
+    color: gray;
+    font-size: large;
+}
+.button{
+    border-radius: 100px;
+    font-size: large;
+}
+.mat{
+    padding-left: 200px;
+}
