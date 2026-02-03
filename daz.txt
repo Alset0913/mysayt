@@ -1,0 +1,38 @@
+// function Son(a){
+//     if(a>0){
+//         console.log("Musbat")
+//     }else if(a<0){
+//         console.log("Manfiy")
+//     }else if (a == 0){
+//         console.log("Bu son Nolga teng")
+//     }else{
+//         console.log("BU son emas")
+//     }
+// }
+// Son(4)m
+
+// for(i = 1;i <=20;i++){
+//     console.log(i)
+// }
+
+// function KvadratSon(a){
+//     console.log(a**2)
+// }
+// KvadratSon()
+
+// Function KattaHarf(){
+//     let i = "berilgan"
+//     console.log(i.toUpperCase())
+// }
+// KattaHarf()
+
+
+
+// let son = 5
+// for(i=1; i<=10; i++){
+//     console.log(`${son}*${i}=${son*i}`)
+// }
+
+// for(i = 10; i>0;i--){
+//     console.log(i)
+// }

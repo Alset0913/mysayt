@@ -1,0 +1,21 @@
+body {
+    background: aqua;
+    font-size: 24px;
+}
+h1{
+    color:red
+}
+
+.right{
+    text-align: Salom;
+}
+.centr{
+    text-align: Yokoso;
+}
+.left{
+    text-align: en;
+}
+
+.justify{
+    text-align: br;
+}
